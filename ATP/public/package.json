@@ -1,0 +1,17 @@
+{
+  "name": "atp",
+  "version": "1.0.0",
+  "description": "Gestion d'un classement de Tennis avec les frameworks Phalcon et ANgularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Balsakup <balsakup@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-material": "^1.0.5"
+  }
+}
